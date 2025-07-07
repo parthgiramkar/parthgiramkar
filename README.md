@@ -1,16 +1,16 @@
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+
+<h1 align="center">🙏 Namaste!</h1>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently pursuing a Masters degree in AI  
+- 🔭 I’m currently pursuing Undergrad Degree in AI&DS  
 - 👯 Looking to collaborate on end-to-end Machine Learning Projects  
-- 💬 Ask me about Machine Learning  
-- 📫 How to reach me: fnisf@gmail.com  
+- 📫 How to reach me: imparthgiramkar@gmail.com  
 - 😄 Pronouns: He/Him  
 
 ---
@@ -21,7 +21,7 @@
   <a href="https://x.com/PGiramkar28072" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
-  <a href="www.linkedin.com/in/parth-giramkar-37429a28a" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-giramkar-37429a28a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
 </div>
@@ -42,6 +42,10 @@
 
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+
+  <!-- Anaconda -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
   <img width="12" />
 
   <!-- Pandas -->
@@ -90,12 +94,12 @@
   <br><br>
 
   <!-- Box 3: Contribution streak -->
-  <img src="https://streak-stats.demolab.com?user=parthgiramkarf&theme=radical&hide_border=false&border_radius=5" height="200" />
+  <img src="https://streak-stats.demolab.com?user=parthgiramkar&theme=radical&hide_border=false&border_radius=5" height="200" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fnisf.fnisf" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=parthgiramkar.parthgiramkar" alt="Visitor Count" />
 </div>
