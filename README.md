@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently pursuing Undergrad Degree in AI&DS  
-- 👯 Looking to collaborate on end-to-end Machine Learning Projects  
+- 👯 Looking to collaborate on end-to-end Machine Learning and open-source Projects  
 - 📫 How to reach me: imparthgiramkar@gmail.com  
 - 😄 Pronouns: He/Him  
 
