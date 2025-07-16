@@ -81,9 +81,13 @@
 
 ### 📊 GitHub Stats
 
-  <!-- GitHub Stats Card -->
+  <div align="center">
+
+  <!-- Box 1: Total stars, commits, PRs, issues -->
   <img src="https://github-readme-stats.vercel.app/api?username=parthgiramkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="200" />
 
+  <br><br>
+  
 </div>
 
 
