@@ -81,12 +81,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- Box 1: Total stars, commits, PRs, issues -->
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=parthgiramkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="200" />
 
-  <br><br>
+</div>
+
 
   <!-- Box 2: Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgiramkar&layout=compact&theme=radical&langs_count=10" height="200" />
