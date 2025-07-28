@@ -33,8 +33,9 @@
 <div align="left">
 
   <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
+
 
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
