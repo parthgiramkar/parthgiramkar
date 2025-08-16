@@ -15,6 +15,20 @@
 
 ---
 
+<h2 align="center">My LeetCode Badges</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Parth_Giramkar/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 1" height="200" width="200" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Parth_Giramkar/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge 2" height="200" width="200" />
+  </a>
+
+  </p>
+
+
 ### 📲 Socials
 
 <div align="left">
