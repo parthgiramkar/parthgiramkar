@@ -33,7 +33,7 @@
 
 <div align="left">
   <a href="https://x.com/PGiramkar28072" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/parth-giramkar-37429a28a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
